@@ -1,0 +1,7 @@
+{
+  "name": "AI Learning Companion",
+  "description": "An autonomous AI agent that enhances the learning experience by providing personalized educational support, real-time feedback, and adaptive content generation across various subjects. It features a chatbot tutor, quizzes, flashcards, a Pomodoro timer, and progress analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
