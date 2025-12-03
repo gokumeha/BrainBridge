@@ -1,8 +1,4 @@
-Absolutely ✅ — here’s a **well-written, professional README description** you can paste directly into your GitHub project or documentation for **BrainBridge – AI-Powered Personalized Learning Companion**.
 
-It’s structured, developer-friendly, and formatted in Markdown so it looks clean on GitHub or any code hosting platform.
-
----
 
 # 🧠 BrainBridge – AI-Powered Personalized Learning Companion
 
@@ -93,21 +89,11 @@ It’s a **personal AI tutor, progress tracker, and productivity coach** all in 
 
 **Team BrainBridge** – Yenepoya Institute of Technology
 
-* [Your Name] – AI & Integration Lead
-* [Teammate Name] – Frontend Developer
-* [Teammate Name] – Backend Developer
-* [Teammate Name] – UI/UX Designer
+* Nazal Maharoof – AI & Integration Lead
+* Misab Elyas Eliat – Frontend Developer
+* Senhan Salavudheen and Nazal Maharoof – Backend Developer
+* Senhan and Misab – UI/UX Designer
 
 ---
 
-## 📫 Contact
-
-For feedback or collaboration:
-📧 [Your Email]
-🌐 [Project URL or Hosting Link]
-💻 [GitHub Repository Link]
-
----
-
-Would you like me to make a **shorter version (2-paragraph)** version too — specifically for your GitHub repository *description field* or hackathon project submission form (around 80–120 words)?
 
